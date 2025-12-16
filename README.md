@@ -8,6 +8,19 @@ An intelligent system that uses Machine Learning and NLP to match resumes with j
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## 🎯 Overview
+## 📸 Screenshots
+
+### Main Interface
+![Main Interface](screenshots/main-interface.PNG)
+
+### Match Results
+![Match Results](screenshots/match-results.PNG)
+
+### Skills Analysis
+![Skills Analysis](screenshots/skills-anaylsis.PNG)
+
+### App Description
+![App Description](screenshots/app-description.PNG)
 
 This project analyzes the compatibility between resumes and job descriptions using advanced AI techniques, providing:
 - **Match Score**: 0-100% compatibility rating
