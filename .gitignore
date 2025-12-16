@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# Data files (too large for GitHub)
+data/kaggle_resumes/
+data/linkedin_jobs/
+data/processed/
+*.csv
+*.pdf
+*.docx
+*.txt
+
+# Keep directory structure but not files
+!data/.gitkeep
+!data/kaggle_resumes/.gitkeep
+!data/linkedin_jobs/.gitkeep
+!data/processed/.gitkeep
+
+# Keep sample files
+!data/skills_database.json
+!data/sample_resumes.txt
+!data/sample_job_descriptions.txt
+
+# Pretrained models (too large)
+pretrained_models/
+!pretrained_models/.gitkeep
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# Streamlit
+.streamlit/
+
+# PyTorch
+*.pth
+*.pt
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+temp/
+tmp/

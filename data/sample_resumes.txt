@@ -1,0 +1,242 @@
+SAMPLE RESUME 1 - DATA SCIENTIST
+
+JOHN DOE
+Email: john.doe@email.com | Phone: (555) 123-4567 | LinkedIn: linkedin.com/in/johndoe
+Location: San Francisco, CA
+
+SUMMARY
+Results-driven Data Scientist with 5+ years of experience in machine learning, statistical analysis, and predictive modeling. Expert in Python, R, and SQL with a proven track record of delivering data-driven solutions that improve business outcomes.
+
+SKILLS
+• Programming: Python, R, SQL, Java
+• Machine Learning: Scikit-learn, TensorFlow, PyTorch, XGBoost
+• Data Analysis: Pandas, NumPy, SciPy, Statistical Analysis
+• Visualization: Tableau, Power BI, Matplotlib, Seaborn
+• Cloud: AWS (S3, EC2, SageMaker), Azure Machine Learning
+• Big Data: Apache Spark, Hadoop, Hive
+• Databases: PostgreSQL, MongoDB, MySQL
+• Tools: Git, Docker, Jupyter Notebooks, VS Code
+
+EXPERIENCE
+
+Senior Data Scientist | TechCorp Inc. | San Francisco, CA | Jan 2021 - Present
+• Developed machine learning models that improved customer churn prediction by 35%
+• Built recommendation system serving 2M+ users, increasing engagement by 28%
+• Led team of 4 data scientists in developing NLP solution for sentiment analysis
+• Deployed models to production using AWS SageMaker and Docker containers
+• Collaborated with product teams to define KPIs and track business metrics
+
+Data Scientist | DataTech Solutions | San Francisco, CA | Jun 2018 - Dec 2020
+• Created predictive models for sales forecasting with 92% accuracy
+• Implemented A/B testing framework that increased conversion rates by 15%
+• Analyzed large datasets (10M+ records) using Python and SQL
+• Designed interactive dashboards in Tableau for executive reporting
+• Mentored junior analysts on best practices in data analysis
+
+EDUCATION
+
+Master of Science in Data Science | Stanford University | 2018
+Bachelor of Science in Computer Science | UC Berkeley | 2016
+
+CERTIFICATIONS
+• AWS Certified Machine Learning - Specialty
+• TensorFlow Developer Certificate
+• Google Cloud Professional Data Engineer
+
+PROJECTS
+• Customer Segmentation: Developed clustering algorithm to identify 5 customer segments, enabling targeted marketing campaigns
+• Image Classification: Built CNN model for product image classification with 95% accuracy using PyTorch
+• Time Series Forecasting: Created LSTM model for stock price prediction achieving 88% directional accuracy
+
+---
+
+SAMPLE RESUME 2 - SOFTWARE ENGINEER
+
+SARAH JOHNSON
+Email: sarah.johnson@email.com | Phone: (555) 987-6543
+GitHub: github.com/sarahjohnson | Portfolio: sarahjohnson.dev
+
+PROFESSIONAL SUMMARY
+Full-stack software engineer with 6 years of experience building scalable web applications. Proficient in React, Node.js, and Python with expertise in cloud architecture and microservices.
+
+TECHNICAL SKILLS
+Frontend: React, Angular, Vue.js, JavaScript, TypeScript, HTML5, CSS3, Redux
+Backend: Node.js, Express, Python, Django, Flask, Java, Spring Boot
+Databases: PostgreSQL, MongoDB, MySQL, Redis
+Cloud & DevOps: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD, Jenkins
+Tools: Git, GitHub Actions, Jira, VS Code, Postman
+Testing: Jest, PyTest, Selenium, Unit Testing, Integration Testing
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | CloudSystems Inc. | Seattle, WA | Mar 2020 - Present
+• Architected and developed microservices-based e-commerce platform handling 100K+ daily transactions
+• Reduced API response time by 60% through optimization and caching strategies
+• Implemented CI/CD pipeline using GitHub Actions, reducing deployment time by 80%
+• Led migration from monolithic architecture to microservices on AWS
+• Mentored 3 junior developers and conducted code reviews
+
+Software Engineer | WebDev Solutions | Seattle, WA | Jul 2017 - Feb 2020
+• Developed RESTful APIs using Node.js and Express serving 50K+ users
+• Built responsive web applications using React and Redux
+• Integrated payment systems (Stripe, PayPal) with 99.9% uptime
+• Implemented authentication and authorization using JWT and OAuth
+• Optimized database queries reducing load times by 45%
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Washington | 2017
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate
+• Certified Kubernetes Administrator (CKA)
+
+NOTABLE PROJECTS
+• E-commerce Platform: Built full-stack marketplace with React frontend and Node.js backend
+• Task Management App: Created real-time collaborative tool using WebSocket and MongoDB
+• API Gateway: Developed microservices gateway handling 1M+ requests per day
+
+---
+
+SAMPLE RESUME 3 - MACHINE LEARNING ENGINEER
+
+MICHAEL CHEN
+Email: m.chen@email.com | Phone: (555) 456-7890
+LinkedIn: linkedin.com/in/michaelchen
+
+OBJECTIVE
+Machine Learning Engineer with 4 years of experience in deep learning and computer vision, seeking challenging role to develop cutting-edge AI solutions.
+
+CORE COMPETENCIES
+Deep Learning: TensorFlow, PyTorch, Keras, Neural Networks
+Computer Vision: OpenCV, Image Classification, Object Detection, YOLO
+NLP: BERT, GPT, Transformers, Text Classification, Named Entity Recognition
+Programming: Python, C++, CUDA
+MLOps: Docker, Kubernetes, MLflow, Model Deployment
+Cloud: AWS (SageMaker, EC2), Google Cloud AI Platform
+Frameworks: FastAPI, Flask, Streamlit
+
+WORK HISTORY
+
+Machine Learning Engineer | AI Innovations Lab | Boston, MA | Aug 2020 - Present
+• Developed object detection system using YOLO achieving 93% mAP
+• Built NLP model for document classification processing 10K+ documents daily
+• Deployed ML models to production using Docker and Kubernetes
+• Optimized inference time by 70% through model quantization and pruning
+• Created data pipelines for automated model retraining
+
+ML Engineer Intern | DataVision Corp. | Boston, MA | Jan 2020 - Jul 2020
+• Implemented image segmentation model for medical imaging application
+• Trained CNN models on GPU clusters using TensorFlow
+• Participated in model evaluation and hyperparameter tuning
+• Collaborated with research team on experimental ML architectures
+
+EDUCATION
+Master of Science in Artificial Intelligence | MIT | 2020
+Bachelor of Engineering in Computer Engineering | Georgia Tech | 2018
+
+PUBLICATIONS
+• "Efficient Object Detection in Autonomous Vehicles" - CVPR 2022
+• "Transfer Learning for Medical Image Analysis" - NeurIPS 2021
+
+ACHIEVEMENTS
+• Won 1st place in Kaggle Image Classification Competition
+• Published 3 research papers in top-tier ML conferences
+• Open-source contributor to PyTorch and TensorFlow
+
+---
+
+SAMPLE RESUME 4 - DEVOPS ENGINEER
+
+EMILY RODRIGUEZ
+emily.rodriguez@email.com | (555) 234-5678 | Austin, TX
+
+SUMMARY
+DevOps Engineer with 5 years of experience in cloud infrastructure, automation, and continuous delivery. Expert in AWS, Docker, Kubernetes, and infrastructure as code.
+
+SKILLS
+Cloud Platforms: AWS (EC2, S3, RDS, Lambda, CloudFormation), Azure, GCP
+Containers: Docker, Kubernetes, ECS, Container Registry
+CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI
+Infrastructure as Code: Terraform, Ansible, CloudFormation
+Monitoring: Prometheus, Grafana, ELK Stack, CloudWatch
+Scripting: Python, Bash, PowerShell
+Version Control: Git, GitHub, GitLab, Bitbucket
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+EXPERIENCE
+
+Senior DevOps Engineer | CloudOps Inc. | Austin, TX | Feb 2021 - Present
+• Managed AWS infrastructure supporting 500K+ monthly active users
+• Reduced infrastructure costs by 40% through resource optimization
+• Implemented automated deployment pipeline reducing release time from 2 hours to 15 minutes
+• Set up monitoring and alerting system with Prometheus and Grafana
+• Automated infrastructure provisioning using Terraform reducing setup time by 85%
+
+DevOps Engineer | TechStart Solutions | Austin, TX | Jun 2018 - Jan 2021
+• Built CI/CD pipelines using Jenkins and Docker
+• Containerized 20+ applications using Docker and deployed to Kubernetes
+• Managed production databases with automated backup and recovery
+• Implemented security best practices including secrets management
+• Collaborated with development teams to optimize application performance
+
+EDUCATION
+Bachelor of Science in Information Technology | UT Austin | 2018
+
+CERTIFICATIONS
+• AWS Certified DevOps Engineer - Professional
+• Certified Kubernetes Administrator (CKA)
+• HashiCorp Certified: Terraform Associate
+• Docker Certified Associate
+
+KEY PROJECTS
+• Multi-region AWS Infrastructure: Designed and implemented highly available architecture across 3 regions
+• Kubernetes Migration: Led migration of 30+ services from EC2 to EKS
+• Monitoring Platform: Built centralized logging and monitoring solution serving 50+ microservices
+
+---
+
+SAMPLE RESUME 5 - FRONTEND DEVELOPER
+
+ALEX MARTINEZ
+alex.martinez@email.com | Portfolio: alexmartinez.io | (555) 345-6789
+
+PROFILE
+Creative frontend developer with 4 years of experience building beautiful, responsive web applications. Passionate about user experience and modern web technologies.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, HTML5, CSS3, SASS/SCSS
+Frameworks: React, Vue.js, Next.js, Angular
+UI Libraries: Material-UI, Ant Design, Tailwind CSS, Bootstrap
+State Management: Redux, Vuex, Context API, MobX
+Tools: Webpack, Babel, NPM, Yarn, Git
+Testing: Jest, React Testing Library, Cypress, Enzyme
+Design: Figma, Adobe XD, Sketch, Responsive Design
+
+PROFESSIONAL EXPERIENCE
+
+Frontend Developer | DesignTech Studio | Los Angeles, CA | Jan 2020 - Present
+• Developed responsive web applications using React and TypeScript
+• Improved website performance by 50% through code optimization and lazy loading
+• Implemented pixel-perfect designs from Figma mockups
+• Built reusable component library used across 5 products
+• Collaborated with UX designers to create intuitive user interfaces
+• Achieved 95+ Lighthouse scores on all projects
+
+Junior Frontend Developer | WebCreative Agency | Los Angeles, CA | Jun 2019 - Dec 2019
+• Created landing pages and marketing websites using Vue.js
+• Integrated RESTful APIs with frontend applications
+• Implemented responsive designs working on mobile-first approach
+• Participated in code reviews and agile development process
+
+EDUCATION
+Bachelor of Arts in Web Design & Development | UCLA | 2019
+
+SIDE PROJECTS
+• Personal Portfolio: Built interactive portfolio website with React and Three.js
+• Weather App: Created weather application using Vue.js and OpenWeather API
+• E-commerce UI: Designed and developed modern e-commerce interface with React
+
+ACHIEVEMENTS
+• Contributed to open-source UI library with 5K+ GitHub stars
+• Won "Best Design" award at local hackathon
+• Published 10+ articles on modern frontend development

@@ -1,0 +1,151 @@
+{
+  "programming_languages": [
+    "Python", "Java", "JavaScript", "C++", "C#", "Go", "Ruby", "PHP",
+    "Swift", "Kotlin", "TypeScript", "R", "MATLAB", "Scala", "Rust",
+    "Perl", "Dart", "Objective-C", "Shell Scripting", "PowerShell",
+    "VBA", "Assembly", "Fortran", "COBOL", "Haskell"
+  ],
+  "web_frameworks": [
+    "Django", "Flask", "FastAPI", "React", "Angular", "Vue.js", "Node.js",
+    "Express", "Spring Boot", "ASP.NET", "Laravel", "Ruby on Rails",
+    "Next.js", "Nuxt.js", "Svelte", "Gatsby", "Ember.js", "Backbone.js",
+    "jQuery", "Bootstrap", "Tailwind CSS", "Material-UI", "Blazor"
+  ],
+  "mobile_development": [
+    "Android Development", "iOS Development", "React Native", "Flutter",
+    "Xamarin", "Ionic", "Cordova", "SwiftUI", "Jetpack Compose",
+    "Mobile UI/UX", "App Store Optimization", "Mobile Testing"
+  ],
+  "data_science_ml": [
+    "Machine Learning", "Deep Learning", "Natural Language Processing", "Computer Vision",
+    "TensorFlow", "PyTorch", "Keras", "Scikit-learn", "XGBoost", "LightGBM",
+    "Pandas", "NumPy", "SciPy", "Matplotlib", "Seaborn", "Plotly",
+    "Data Analysis", "Statistical Analysis", "A/B Testing", "Predictive Modeling",
+    "Time Series Analysis", "Anomaly Detection", "Recommendation Systems",
+    "Neural Networks", "CNNs", "RNNs", "LSTMs", "Transformers", "BERT", "GPT",
+    "Reinforcement Learning", "Transfer Learning", "Model Deployment", "MLOps"
+  ],
+  "databases": [
+    "MySQL", "PostgreSQL", "MongoDB", "Redis", "Cassandra", "Oracle",
+    "SQL Server", "SQLite", "DynamoDB", "Firebase", "Elasticsearch",
+    "Neo4j", "CouchDB", "MariaDB", "InfluxDB", "TimescaleDB",
+    "SQL", "NoSQL", "Database Design", "Query Optimization", "Data Modeling",
+    "Database Administration", "Backup and Recovery", "Replication", "Sharding"
+  ],
+  "cloud_platforms": [
+    "Amazon Web Services", "AWS", "Microsoft Azure", "Google Cloud Platform", "GCP",
+    "AWS EC2", "AWS S3", "AWS Lambda", "AWS RDS", "AWS DynamoDB",
+    "Azure Functions", "Azure DevOps", "Google Kubernetes Engine",
+    "Cloud Architecture", "Cloud Migration", "Cloud Security",
+    "Serverless", "Cloud Storage", "Cloud Networking", "Multi-Cloud"
+  ],
+  "devops_tools": [
+    "Docker", "Kubernetes", "Jenkins", "Git", "GitHub", "GitLab", "Bitbucket",
+    "CI/CD", "Terraform", "Ansible", "Chef", "Puppet", "Vagrant",
+    "CircleCI", "Travis CI", "GitHub Actions", "GitLab CI",
+    "Maven", "Gradle", "NPM", "Yarn", "Webpack", "Babel",
+    "Nginx", "Apache", "HAProxy", "Load Balancing",
+    "Monitoring", "Logging", "Prometheus", "Grafana", "ELK Stack",
+    "Infrastructure as Code", "Configuration Management", "Container Orchestration"
+  ],
+  "testing_qa": [
+    "Unit Testing", "Integration Testing", "End-to-End Testing", "Test Automation",
+    "Selenium", "JUnit", "PyTest", "Jest", "Mocha", "Cypress", "TestNG",
+    "Postman", "REST Assured", "API Testing", "Performance Testing",
+    "Load Testing", "Security Testing", "Test-Driven Development", "TDD",
+    "Behavior-Driven Development", "BDD", "Quality Assurance", "QA",
+    "Manual Testing", "Regression Testing", "Smoke Testing", "Bug Tracking"
+  ],
+  "data_engineering": [
+    "ETL", "Data Pipeline", "Apache Spark", "Apache Hadoop", "Apache Kafka",
+    "Apache Airflow", "Data Warehousing", "Data Lake", "Data Integration",
+    "Big Data", "Hive", "Pig", "HBase", "Presto", "Snowflake",
+    "Databricks", "dbt", "Stream Processing", "Batch Processing",
+    "Data Quality", "Data Governance", "Data Catalog"
+  ],
+  "business_intelligence": [
+    "Tableau", "Power BI", "Looker", "QlikView", "SAP BusinessObjects",
+    "Data Visualization", "Dashboard Design", "Reporting", "KPI Tracking",
+    "Business Analytics", "Data Storytelling", "Excel", "Google Analytics"
+  ],
+  "cybersecurity": [
+    "Network Security", "Application Security", "Cloud Security", "Penetration Testing",
+    "Vulnerability Assessment", "Security Auditing", "Firewall Management",
+    "Intrusion Detection", "SIEM", "Encryption", "SSL/TLS", "OAuth", "JWT",
+    "Security Compliance", "GDPR", "HIPAA", "PCI DSS", "ISO 27001",
+    "Ethical Hacking", "Security Operations", "Incident Response",
+    "Malware Analysis", "Threat Intelligence", "Risk Assessment"
+  ],
+  "networking": [
+    "TCP/IP", "DNS", "HTTP/HTTPS", "REST API", "GraphQL", "WebSocket",
+    "Load Balancing", "CDN", "VPN", "LAN/WAN", "Network Architecture",
+    "Network Protocols", "Routing", "Switching", "Network Troubleshooting",
+    "Cisco", "Juniper", "Network Monitoring", "Bandwidth Management"
+  ],
+  "operating_systems": [
+    "Linux", "Unix", "Windows Server", "macOS", "Ubuntu", "CentOS", "Red Hat",
+    "Debian", "System Administration", "Shell Scripting", "Bash",
+    "Active Directory", "LDAP", "Virtualization", "VMware", "Hyper-V"
+  ],
+  "project_management": [
+    "Agile", "Scrum", "Kanban", "Waterfall", "Jira", "Asana", "Trello",
+    "Project Planning", "Resource Management", "Risk Management",
+    "Stakeholder Management", "Budget Management", "Timeline Management",
+    "Sprint Planning", "Backlog Management", "User Stories",
+    "Product Management", "Product Roadmap", "Feature Prioritization"
+  ],
+  "design_ux": [
+    "UI/UX Design", "User Interface Design", "User Experience Design",
+    "Figma", "Adobe XD", "Sketch", "InVision", "Wireframing", "Prototyping",
+    "User Research", "Usability Testing", "Information Architecture",
+    "Interaction Design", "Visual Design", "Design Systems",
+    "Adobe Photoshop", "Adobe Illustrator", "Responsive Design"
+  ],
+  "soft_skills": [
+    "Communication", "Leadership", "Team Collaboration", "Problem Solving",
+    "Critical Thinking", "Time Management", "Adaptability", "Creativity",
+    "Attention to Detail", "Work Ethic", "Self-Motivation", "Conflict Resolution",
+    "Decision Making", "Emotional Intelligence", "Presentation Skills",
+    "Negotiation", "Mentoring", "Customer Service", "Interpersonal Skills",
+    "Analytical Thinking", "Strategic Thinking", "Project Coordination"
+  ],
+  "methodologies": [
+    "Agile Development", "Scrum", "Kanban", "Lean", "DevOps", "Six Sigma",
+    "Test-Driven Development", "Behavior-Driven Development", "Continuous Integration",
+    "Continuous Deployment", "Microservices Architecture", "RESTful API Design",
+    "Design Patterns", "Object-Oriented Programming", "Functional Programming",
+    "Event-Driven Architecture", "Domain-Driven Design", "Clean Code"
+  ],
+  "blockchain_web3": [
+    "Blockchain", "Ethereum", "Solidity", "Smart Contracts", "Web3",
+    "DeFi", "NFT", "Cryptocurrency", "Hyperledger", "Bitcoin",
+    "Distributed Ledger", "Consensus Algorithms", "dApps"
+  ],
+  "game_development": [
+    "Unity", "Unreal Engine", "Game Design", "3D Modeling", "Animation",
+    "Physics Engine", "Shader Programming", "Game AI", "Multiplayer",
+    "Mobile Games", "VR/AR Development", "Blender", "Maya"
+  ],
+  "iot_embedded": [
+    "Internet of Things", "IoT", "Embedded Systems", "Arduino", "Raspberry Pi",
+    "Sensors", "Actuators", "MQTT", "Edge Computing", "Firmware Development",
+    "Microcontrollers", "Real-Time Operating Systems", "Hardware Programming"
+  ],
+  "industry_specific": [
+    "Healthcare IT", "FinTech", "E-commerce", "EdTech", "Legal Tech",
+    "Supply Chain Management", "CRM Systems", "ERP Systems", "Salesforce",
+    "SAP", "Oracle ERP", "Medical Devices", "Banking Systems",
+    "Payment Processing", "Blockchain Finance", "Insurance Tech"
+  ],
+  "certifications": [
+    "AWS Certified", "Azure Certified", "Google Cloud Certified",
+    "Certified Kubernetes Administrator", "CISSP", "CEH",
+    "CompTIA Security+", "PMP", "Scrum Master Certified",
+    "Oracle Certified", "Microsoft Certified", "Cisco CCNA",
+    "Red Hat Certified", "Certified Data Scientist"
+  ],
+  "languages_spoken": [
+    "English", "Spanish", "French", "German", "Chinese", "Japanese",
+    "Arabic", "Portuguese", "Russian", "Hindi", "Italian", "Korean"
+  ]
+}
