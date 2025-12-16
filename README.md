@@ -250,10 +250,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Hazem Mahmoud**
+- LinkedIn:(https://www.linkedin.com/in/hazem-saad97?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- GitHub: [@Hazemsaady23](https://github.com/Hazemsaady23)
+- Email: hazemsaady18@gmail.com
 
 ## 🙏 Acknowledgments
 
